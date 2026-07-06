@@ -111,7 +111,6 @@ ngrok http 8000
 ##  Author
 
 Apoorv Raizada @apoorvvraizadaa@gmail.com 
-Mehul Sangwan @mehulsangwan108@gmail.com
 
 ---
 
